@@ -9,7 +9,7 @@ libraries required: pandas, numpy, matplotlib, jupyter notebook
 resource:
 
 
-Data folder : https://github.com/forkfacts/forkfacts/tree/develop/src/data
+Data folder/ ff.json : https://github.com/forkfacts/forkfacts/tree/develop/src/data or https://github.com/forkfacts/forkfacts/blob/develop/src/data/foundation_food_nutrition_facts.json
 
 
 
